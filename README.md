@@ -7,6 +7,7 @@
 - YouTube：https://www.youtube.com/channel/UCeFjwgAql3SbhJV6qgHmOMA，这里也有很多我的React源码实现视频~
 - 更多前端教程在小鹅通：https://appuwwsm6cl6690.pc.xiaoe-tech.com/，这里有更多系统全面的教程和文档~
 - 小班课请微信联系我：bubucuo_sy
+- 邮箱：bubucuo.sy@gmail.com
 
 
 <!--
