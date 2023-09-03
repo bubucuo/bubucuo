@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-公众号: bubucuo
-b站：https://space.bilibili.com/455025597
-YouTube：https://www.youtube.com/channel/UCeFjwgAql3SbhJV6qgHmOMA
-更多前端教程在小鹅通：https://appuwwsm6cl6690.pc.xiaoe-tech.com/
-私教课请微信联系我：bubucuo_sy
+- 公众号: bubucuo
+- b站：https://space.bilibili.com/455025597
+- YouTube：https://www.youtube.com/channel/UCeFjwgAql3SbhJV6qgHmOMA
+- 更多前端教程在小鹅通：https://appuwwsm6cl6690.pc.xiaoe-tech.com/
+- 私教课请微信联系我：bubucuo_sy
 
 
 <!--
