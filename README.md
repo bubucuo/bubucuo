@@ -6,7 +6,7 @@
 - [b站](https://space.bilibili.com/455025597)，「前端bubucuo」，这里有很多我的React源码实现视频~
 - [YouTube](https://www.youtube.com/channel/UCeFjwgAql3SbhJV6qgHmOMA)，「bubucuo」这里也有很多我的React源码实现视频~
 - 更多前端教程在[小鹅通](https://appuwwsm6cl6690.pc.xiaoe-tech.com/)，这里有更多系统全面的教程和文档~
-- 小班课请微信联系我：bubucuo_sy
+- 微信：bubucuo_sy
 - email：bubucuo.sy@gmail.com
 
 
