@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-### bubucuo，擅长React源码的解析与手写实现、低代码开发、组件库开发、前端算法实战等。 
-
 - 公众号: bubucuo，如果你想看详细的React源码或者项目大纲，可在我的公众号菜单栏查看~
 - [b站](https://space.bilibili.com/455025597)，「前端bubucuo」，这里有很多我的React源码实现视频~
 - [YouTube](https://www.youtube.com/channel/UCeFjwgAql3SbhJV6qgHmOMA)，「bubucuo」这里也有很多我的React源码实现视频~
