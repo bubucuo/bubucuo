@@ -1,14 +1,34 @@
-
 ### Hi there 👋
 
 
-## English
+## About Me
 
-- 🔭 I am a front-end developer, but also work on the back-end
-- 🌱 I am a video blogger, you can find many of my tutorial videos on [Bilibili](https://space.bilibili.com/455025597) and [YouTube](https://www.youtube.com/channel/UCeFjwgAql3SbhJV6qgHmOMA), including **React source code series, low-code series, component library series, front-end algorithm series**, etc.
-- 🤔 My technical articles are on the WeChat official account "bubucuo" and [Juejin](https://juejin.cn/user/3878732755375742/posts)
+- 🔭 I am a front-end developer but also work on the back-end
+- 🌱I’m a video blogger, and I regularly share technical tutorials on [Bilibili](https://space.bilibili.com/455025597) and [YouTube](https://www.youtube.com/channel/UCeFjwgAql3SbhJV6qgHmOMA). My content covers a wide range of topics, including React source code exploration, low-code platforms, component libraries, and front-end algorithms.
+- 🤔 My articles are on the WeChat official account "bubucuo" and [Juejin](https://juejin.cn/user/3878732755375742/posts)
 - 📫 Contact: bubucuo.sy@gmail.com
-- ⚡ More systematic video tutorials: https://appuwwsm6cl6690.pc.xiaoe-tech.com/
+- ⚡ More video tutorials: https://appuwwsm6cl6690.pc.xiaoe-tech.com/
+
+
+
+#  My Main Stack
+
+React/Vue, Next.js, TypeScript, Zustand/Redux, ReactRouter
+
+
+
+## Some Of My Projects
+
+- [**mini-react**](https://github.com/bubucuo/mini-react)**:** Build your own React.
+- **[DebugReact](https://github.com/bubucuo/DebugReact)**: Debug the React source code within a real-world application.
+- [**redux-nut**](https://github.com/bubucuo/redux-nut)**:** Build your own Redux, React-Redux, and middlewares.
+- **[zustand-nut:](https://github.com/bubucuo/zustand-nut)** Build your own Zustand.
+- [**router6-nut**](https://github.com/bubucuo/router6-nut)**:** Build your own React Router.
+- [**form-nut**](https://github.com/bubucuo/form-nut)**:** Core implementations of Ant Design Form and Formily, focusing on their internal logic.
+- [**compiler-nut**](https://github.com/bubucuo/compiler-nut)**:** Explore compiler concepts used in React, Vue, and Webpack.
+- [**Fish UI**](https://fish-ui-sy.vercel.app)**:** A React component library developed from scratch, drawing design inspiration from Ant Design and Fluent UI.
+- [**mobx-nut**](https://github.com/bubucuo/mobx-nut): Build your own MobX and MobX React.
+
 
 
 ## Some Of My Videos
