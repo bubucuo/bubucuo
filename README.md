@@ -13,7 +13,7 @@
 
 #  My Main Stack
 
-React/Vue, Next.js, TypeScript, Zustand/Redux, ReactRouter
+**React/Vue, Next.js, TypeScript, Zustand/Redux, ReactRouter**
 
 
 
