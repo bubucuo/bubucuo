@@ -21,7 +21,7 @@
 
 - [**mini-react**](https://github.com/bubucuo/mini-react)**:** Build your own React.
 - **[DebugReact](https://github.com/bubucuo/DebugReact)**: Debug the React source code within a real-world application.
-- [**redux-nut**](https://github.com/bubucuo/redux-nut)**:** Build your own Redux, React-Redux, and middlewares.
+- [**redux-nut**](https://github.com/bubucuo/redux-nut)**:** Build your own Redux, React-Redux, Redux Toolkit and middlewares.
 - **[zustand-nut:](https://github.com/bubucuo/zustand-nut)** Build your own Zustand.
 - [**router6-nut**](https://github.com/bubucuo/router6-nut)**:** Build your own React Router.
 - [**form-nut**](https://github.com/bubucuo/form-nut)**:** Core implementations of Ant Design Form and Formily, focusing on their internal logic.
