@@ -3,7 +3,7 @@
 **微信：bubucuo_sy**
 
 
-**邮箱: bubucuo.sy@gmail.com**
+**邮箱: bubucuo.sy@gmail.com** OR **276185876@qq.com**
 
 ## About Me
 
