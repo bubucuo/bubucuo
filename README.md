@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-微信：bubucuo_sy
+**微信：bubucuo_sy**
 
 ## About Me
 
