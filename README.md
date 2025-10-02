@@ -4,7 +4,7 @@
 
 **邮箱: bubucuo.sy@gmail.com** OR **276185876@qq.com**
 
-<!-- ## About Me
+## About Me
 
 - 🔭 I am a front-end developer but also work on the back-end
 - 🌱I’m a video blogger, and I regularly share technical tutorials on [Bilibili](https://space.bilibili.com/455025597) and [YouTube](https://www.youtube.com/channel/UCeFjwgAql3SbhJV6qgHmOMA). My content covers a wide range of topics, including React source code exploration, low-code platforms, component libraries, and front-end algorithms.
@@ -12,13 +12,9 @@
 - 📫 Contact: bubucuo.sy@gmail.com
 - ⚡ More video tutorials: https://appuwwsm6cl6690.pc.xiaoe-tech.com/
 
-
-
-#  My Main Stack
+# My Main Stack
 
 **React/Vue, Next.js, TypeScript, Zustand/Redux, ReactRouter**
-
-
 
 # Some Of My Projects
 
@@ -32,11 +28,9 @@
 - [**Fish UI**](https://fish-ui-sy.vercel.app)**:** A React component library developed from scratch, drawing design inspiration from Ant Design and Fluent UI.
 - [**mobx-nut**](https://github.com/bubucuo/mobx-nut): Build your own MobX and MobX React.
 
-
-
 # Some Of My Videos
 
-- Write a React component by hand: [Code](https://github.com/bubucuo/mini-react)  | [Implementing React Scheduler](https://www.bilibili.com/video/BV11P411k7Rz/?spm_id_from=333.999.0.0&vd_source=ce7ca0ac5a3d9bb363768d9e1ce9fbfb)| [Implementing React Hook ](https://www.bilibili.com/video/BV1n94y1y7zz/?spm_id_from=333.999.0.0)
+- Write a React component by hand: [Code](https://github.com/bubucuo/mini-react) | [Implementing React Scheduler](https://www.bilibili.com/video/BV11P411k7Rz/?spm_id_from=333.999.0.0&vd_source=ce7ca0ac5a3d9bb363768d9e1ce9fbfb)| [Implementing React Hook ](https://www.bilibili.com/video/BV1n94y1y7zz/?spm_id_from=333.999.0.0)
 - [React18](https://www.bilibili.com/video/BV1qS4y1m7GY/?spm_id_from=333.999.0.0)
 - [Explain React's time slicing in detail](https://www.bilibili.com/video/BV1tT4y1n7MC/?spm_id_from=333.788&vd_source=ce7ca0ac5a3d9bb363768d9e1ce9fbfb)
 - [Implementing Vue3 keep-alive](https://www.bilibili.com/video/BV1q1421C7KK/?spm_id_from=333.999.0.0&vd_source=ce7ca0ac5a3d9bb363768d9e1ce9fbfb)
@@ -44,8 +38,6 @@
 - [Create a Vue compiler](https://www.bilibili.com/video/BV1kx4y1i7Bh/?spm_id_from=333.788&vd_source=ce7ca0ac5a3d9bb363768d9e1ce9fbfb)
 - [Create a webpack](https://www.bilibili.com/video/BV1Aw4m1172j/?spm_id_from=333.788&vd_source=ce7ca0ac5a3d9bb363768d9e1ce9fbfb)
 - If you would like to watch more video tutorials, click on [my Bilibili homepage](https://space.bilibili.com/455025597) OR [xiaoe](https://appuwwsm6cl6690.pc.xiaoe-tech.com/)
-
- -->
 
 # 看这里
 
