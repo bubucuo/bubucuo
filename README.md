@@ -2,10 +2,9 @@
 
 **微信：bubucuo_sy**
 
-
 **邮箱: bubucuo.sy@gmail.com** OR **276185876@qq.com**
 
-## About Me
+<!-- ## About Me
 
 - 🔭 I am a front-end developer but also work on the back-end
 - 🌱I’m a video blogger, and I regularly share technical tutorials on [Bilibili](https://space.bilibili.com/455025597) and [YouTube](https://www.youtube.com/channel/UCeFjwgAql3SbhJV6qgHmOMA). My content covers a wide range of topics, including React source code exploration, low-code platforms, component libraries, and front-end algorithms.
@@ -46,51 +45,43 @@
 - [Create a webpack](https://www.bilibili.com/video/BV1Aw4m1172j/?spm_id_from=333.788&vd_source=ce7ca0ac5a3d9bb363768d9e1ce9fbfb)
 - If you would like to watch more video tutorials, click on [my Bilibili homepage](https://space.bilibili.com/455025597) OR [xiaoe](https://appuwwsm6cl6690.pc.xiaoe-tech.com/)
 
-
+ -->
 
 # 看这里
 
 - 🔭 我是前端程序员，但是也写后端
-- 🌱 视频博主，[b站](https://space.bilibili.com/455025597)和[YouTube](https://www.youtube.com/channel/UCeFjwgAql3SbhJV6qgHmOMA)有很多我的视频教程，包括**React源码系列、低代码系列、组件库系列、前端算法系列**等
+- 🌱 视频博主，[b 站](https://space.bilibili.com/455025597)和[YouTube](https://www.youtube.com/channel/UCeFjwgAql3SbhJV6qgHmOMA)有很多我的视频教程，包括**React 源码系列、低代码系列、组件库系列、前端算法系列**等
 - 🤔 技术文章在公众号「bubucuo」和 [Juejin](https://juejin.cn/user/3878732755375742/posts)
 - 📫 联系方式: 微信「bubucuo_sy」，邮箱 bubucuo.sy@gmail.com
 - ⚡ **更多系统视频教程** https://appuwwsm6cl6690.pc.xiaoe-tech.com/
-- ✨ 公众号: bubucuo，如果你想看详细的React源码或者项目大纲，可在我的公众号菜单栏查看~
+- ✨ 公众号: bubucuo，如果你想看详细的 React 源码或者项目大纲，可在我的公众号菜单栏查看~
 
-
-
-#  主技术栈
+# 主技术栈
 
 **React/Vue, Next.js, TypeScript, Zustand/Redux, ReactRouter**
 
-
-
 # 一些代码
 
-- [**mini-react**](https://github.com/bubucuo/mini-react)**:** 手写React
-- **[DebugReact](https://github.com/bubucuo/DebugReact)**: 在项目中调试React源码
-- [**redux-nut**](https://github.com/bubucuo/redux-nut)**:** 手写Redux, React-Redux, and middlewares.
+- [**mini-react**](https://github.com/bubucuo/mini-react)**:** 手写 React
+- **[DebugReact](https://github.com/bubucuo/DebugReact)**: 在项目中调试 React 源码
+- [**redux-nut**](https://github.com/bubucuo/redux-nut)**:** 手写 Redux, React-Redux, and middlewares.
 - **[zustand-nut:](https://github.com/bubucuo/zustand-nut)** 手写 Zustand
-- [**router6-nut**](https://github.com/bubucuo/router6-nut)**:** 手写React Router.
-- [**form-nut**](https://github.com/bubucuo/form-nut)**:** 手写Ant Design Form 和 Formily2
+- [**router6-nut**](https://github.com/bubucuo/router6-nut)**:** 手写 React Router.
+- [**form-nut**](https://github.com/bubucuo/form-nut)**:** 手写 Ant Design Form 和 Formily2
 - [**compiler-nut**](https://github.com/bubucuo/compiler-nut)**:** 手写它们的编译器：React, Vue, 和 Webpack
-- [**Fish UI**](https://fish-ui-sy.vercel.app)**:** 参考AntD和FluentUI写个组件库
-- [**mobx-nut**](https://github.com/bubucuo/mobx-nut): 手写MobX 和 MobX React.
-
-
+- [**Fish UI**](https://fish-ui-sy.vercel.app)**:** 参考 AntD 和 FluentUI 写个组件库
+- [**mobx-nut**](https://github.com/bubucuo/mobx-nut): 手写 MobX 和 MobX React.
 
 # 一些视频
 
-- Mini React: [Code](https://github.com/bubucuo/mini-react)  | [Implementing React Scheduler](https://www.bilibili.com/video/BV11P411k7Rz/?spm_id_from=333.999.0.0&vd_source=ce7ca0ac5a3d9bb363768d9e1ce9fbfb)| [Implementing React Hook ](https://www.bilibili.com/video/BV1n94y1y7zz/?spm_id_from=333.999.0.0)
+- Mini React: [Code](https://github.com/bubucuo/mini-react) | [Implementing React Scheduler](https://www.bilibili.com/video/BV11P411k7Rz/?spm_id_from=333.999.0.0&vd_source=ce7ca0ac5a3d9bb363768d9e1ce9fbfb)| [Implementing React Hook ](https://www.bilibili.com/video/BV1n94y1y7zz/?spm_id_from=333.999.0.0)
 - [React18](https://www.bilibili.com/video/BV1qS4y1m7GY/?spm_id_from=333.999.0.0)
 - [Explain React's time slicing in detail](https://www.bilibili.com/video/BV1tT4y1n7MC/?spm_id_from=333.788&vd_source=ce7ca0ac5a3d9bb363768d9e1ce9fbfb)
 - [Implementing Vue3 keep-alive](https://www.bilibili.com/video/BV1q1421C7KK/?spm_id_from=333.999.0.0&vd_source=ce7ca0ac5a3d9bb363768d9e1ce9fbfb)
 - [VUE3 VDOM DIFF](https://www.bilibili.com/video/BV1QL4y1u7Nd/?spm_id_from=333.999.0.0&vd_source=ce7ca0ac5a3d9bb363768d9e1ce9fbfb)
 - [Create a Vue compiler](https://www.bilibili.com/video/BV1kx4y1i7Bh/?spm_id_from=333.788&vd_source=ce7ca0ac5a3d9bb363768d9e1ce9fbfb)
 - [Create a webpack](https://www.bilibili.com/video/BV1Aw4m1172j/?spm_id_from=333.788&vd_source=ce7ca0ac5a3d9bb363768d9e1ce9fbfb)
-- More:  [my Bilibili homepage](https://space.bilibili.com/455025597) OR [xiaoe](https://appuwwsm6cl6690.pc.xiaoe-tech.com/)
-
-
+- More: [my Bilibili homepage](https://space.bilibili.com/455025597) OR [xiaoe](https://appuwwsm6cl6690.pc.xiaoe-tech.com/)
 
 <!--
 **bubucuo/bubucuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
