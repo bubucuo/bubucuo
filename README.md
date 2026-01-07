@@ -4,20 +4,16 @@
 
 **邮箱: bubucuo.sy@gmail.com** OR **276185876@qq.com**
 
-# 看这里
+## 看这里
 
 - 🔭 前端程序员，也写后端
 - 🌱 视频博主，[b 站](https://space.bilibili.com/455025597)和[YouTube](https://www.youtube.com/channel/UCeFjwgAql3SbhJV6qgHmOMA)有很多我的视频教程，包括**React 源码系列、低代码系列、组件库系列、前端算法系列**等
 - 🤔 技术文章在公众号「bubucuo」和 [Juejin](https://juejin.cn/user/3878732755375742/posts)
-<!--- 📫 联系方式: 微信「bubucuo_sy」，邮箱 bubucuo.sy@gmail.com-->
 - ⚡ **更多系统视频教程** https://appuwwsm6cl6690.pc.xiaoe-tech.com/
 - ✨ 如果你想看详细的 React 源码或者项目大纲，可在我的公众号「bubucuo」菜单栏查看~
 
-# 主技术栈
 
-**React/React Native/Vue**
-
-# 一些代码
+## 一些代码
 
 - [**mini-react**](https://github.com/bubucuo/mini-react)**:** 手写 React
 - **[DebugReact](https://github.com/bubucuo/DebugReact)**: 在项目中调试 React 源码
@@ -29,7 +25,7 @@
 - [**Fish UI**](https://fish-ui-sy.vercel.app)**:** 参考 AntD 和 FluentUI 写个组件库
 - [**mobx-nut**](https://github.com/bubucuo/mobx-nut): 手写 MobX 和 MobX React.
 
-# 一些视频
+## 一些视频
 
 - Mini React: [Code](https://github.com/bubucuo/mini-react) | [Implementing React Scheduler](https://www.bilibili.com/video/BV11P411k7Rz/?spm_id_from=333.999.0.0&vd_source=ce7ca0ac5a3d9bb363768d9e1ce9fbfb)| [Implementing React Hook ](https://www.bilibili.com/video/BV1n94y1y7zz/?spm_id_from=333.999.0.0)
 - [React18](https://www.bilibili.com/video/BV1qS4y1m7GY/?spm_id_from=333.999.0.0)
@@ -41,6 +37,10 @@
 - [从0到1掌握React Native](https://www.bilibili.com/video/BV1B4ixB4E6a/?spm_id_from=333.1387.homepage.video_card.click) 
 - More: [my Bilibili homepage](https://space.bilibili.com/455025597) OR [xiaoe](https://appuwwsm6cl6690.pc.xiaoe-tech.com/)
 <!--
+ 📫 联系方式: 微信「bubucuo_sy」，邮箱 bubucuo.sy@gmail.com
+# 主技术栈
+
+**React/React Native/Vue**
 ## About Me
 
 - 🔭 I am a front-end developer but also work on the back-end
