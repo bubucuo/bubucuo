@@ -4,15 +4,16 @@
 
 **邮箱: bubucuo.sy@gmail.com** OR **276185876@qq.com**
 
-## 看这里
+## Here
 
 - 🔭 前端程序员，也写后端
 - 🌱 视频博主，[b 站](https://space.bilibili.com/455025597)和[YouTube](https://www.youtube.com/channel/UCeFjwgAql3SbhJV6qgHmOMA)有很多我的视频教程，包括**React 源码系列、低代码系列、组件库系列、前端算法系列**等
 - 🤔 技术文章在公众号「bubucuo」和 [Juejin](https://juejin.cn/user/3878732755375742/posts)
-- ⚡ **更多系统视频教程** https://space.bilibili.com/455025597/pugv, 如曾在[小鹅通](https://appuwwsm6cl6690.pc.xiaoe-tech.com/)订阅以往视频，可继续观看，新朋友请移步[b站](https://space.bilibili.com/455025597/pugv,)哈～
+- ⚡ **更多系统视频教程** https://space.bilibili.com/455025597/pugv
 - ✨ 如果你想看详细的 React 源码或者项目大纲，也可前往我的公众号「bubucuo」查看～
+- 如曾在[小鹅通](https://appuwwsm6cl6690.pc.xiaoe-tech.com/)订阅以往视频，可继续观看，新朋友请移步[b站](https://space.bilibili.com/455025597/pugv,)哈～
 
-## 一些视频
+## Some Video
 
 - Mini React: [Implementing React Scheduler](https://www.bilibili.com/video/BV11P411k7Rz/?spm_id_from=333.999.0.0&vd_source=ce7ca0ac5a3d9bb363768d9e1ce9fbfb)| [Implementing React Hook ](https://www.bilibili.com/video/BV1n94y1y7zz/?spm_id_from=333.999.0.0)
 - [React18](https://www.bilibili.com/video/BV1qS4y1m7GY/?spm_id_from=333.999.0.0)
