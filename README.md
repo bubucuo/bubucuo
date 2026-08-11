@@ -22,7 +22,7 @@
 - [Create a Vue compiler](https://www.bilibili.com/video/BV1kx4y1i7Bh/?spm_id_from=333.788&vd_source=ce7ca0ac5a3d9bb363768d9e1ce9fbfb)
 - [Create a webpack](https://www.bilibili.com/video/BV1Aw4m1172j/?spm_id_from=333.788&vd_source=ce7ca0ac5a3d9bb363768d9e1ce9fbfb)
 - [从0到1掌握React Native](https://www.bilibili.com/video/BV1B4ixB4E6a/?spm_id_from=333.1387.homepage.video_card.click) 
-- More: [my Bilibili homepage](https://space.bilibili.com/455025597) OR https://space.bilibili.com/455025597/pugv,
+- More: [my Bilibili homepage](https://space.bilibili.com/455025597) OR https://space.bilibili.com/455025597/pugv
 <!--
  📫 联系方式: 微信「bubucuo_sy」，邮箱 bubucuo.sy@gmail.com
 ## 一些代码
